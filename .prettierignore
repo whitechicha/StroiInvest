@@ -1,0 +1,6 @@
+node_modules
+.nuxt
+.output
+public/assets
+app/data/locations.json
+package-lock.json
